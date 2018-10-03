@@ -1,0 +1,5 @@
+Typescript for C# devs
+
+http://jesseliberty.me
+http://jesseliberty.me/tsconfig
+

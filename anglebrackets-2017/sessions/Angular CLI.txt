@@ -1,0 +1,40 @@
+Angular CLI
+
+http://jpapa.me/
+angualr cli git hub wiki -  angular cli wiki
+
+
+ng new my-app --routing --style scss --prefix ma
+
+--skip-tests
+--skip-git
+
+ng new -h
+
+--dry-run --verify the startup before actually creating
+
+ng lint --fix
+
+provide new service in new module
+ng g s serviceName -m app.module
+
+Blueprints
+-commponent  , service, class
+
+ng li
+
+ng g module admin --routing
+
+
+ng build 
+ng 
+
+
+npm install source-map-explorer --save-dev
+
+
+ng eject  - outputs webpack build file so you can modify it and run it instead
+
+ng e2e - compile server and run e2e tests
+
+ng e2e -ee 

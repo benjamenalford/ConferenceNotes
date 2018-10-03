@@ -1,0 +1,2 @@
+Introducing .net Core 2.0
+

@@ -1,0 +1,30 @@
+CSS for developers
+
+box model
+
+how to score specificity
+1. start with 0
+2. inline add 1000
+3. id's add 100
+4. class, attrib, psuedo-classes add 10
+5. elements add 1
+
+keep specificity score as low as possible
+
+position:
+
+cascade:
+
+
+psuedo elements:
+
+<div class="email" data-count="12" > </div>
+.Email.after = attr(data-count)
+
+
+alignment:
+
+
+
+BEM - Block Element Modifier
+ipcon

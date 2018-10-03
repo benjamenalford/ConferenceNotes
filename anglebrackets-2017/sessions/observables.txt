@@ -1,0 +1,10 @@
+Angular RX/JS Observerables
+
+Reactive programming 
+
+
+observables  = Arrays over Time
+
+do / map
+
+  

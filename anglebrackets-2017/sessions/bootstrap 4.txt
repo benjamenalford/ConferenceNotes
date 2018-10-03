@@ -1,0 +1,35 @@
+Bootstrap 4  -what's new
+
+Layout: 
+Flexbox -  http://jjg.me/flexbox-css-tricks
+Grid
+Reponsive
+
+
+Migrations:
+https://v4-alpha-getbootstrap.com/migration 
+
+
+BS4 - IE8,9 and IOS 6 are Dead
+
+
+px to Rem - looks at parent div for size - relative to em
+
+native fonts for all OS but Linux
+
+Dropped:
+Panel
+Thumnails
+Wells
+glyphicons
+affix jQuery
+pager
+
+
+Navigation:
+navbar-toggleable-md
+navbar-toggler-icon
+navbar-toggler navbar-toggler-right
+
+
+

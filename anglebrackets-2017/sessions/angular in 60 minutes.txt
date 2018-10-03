@@ -1,0 +1,14 @@
+Angular in 60 Minutes
+
+Slides:
+http://codewithdan.me/AngularIn60
+
+
+Code:
+http://codewithdan.me/angular-snippets
+
+
+
+
+
+

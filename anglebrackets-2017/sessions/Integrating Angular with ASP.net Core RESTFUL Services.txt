@@ -1,0 +1,18 @@
+Integrating Angular with ASP.net Core RESTFUL Services. 
+
+http://blog.codewithdan.com
+
+http://codewithdan.me/angular-asp-net-core
+
+creating webapi
+angular Services
+injecting Services
+
+webapi - CORS setup
+microsoft.aspnetCore.cors - package
+
+ConfigureServices()
+servies.addCors(options=>
+{
+
+})

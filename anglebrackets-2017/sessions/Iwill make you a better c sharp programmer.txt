@@ -1,0 +1,72 @@
+I will make you a better C# programmer. 
+
+what makes a good developer?
+Passionate *
+Driven
+Open Minded *
+Curious *
+Opinionated *
+Focused on Solution
+
+What techniques align with these characteristics?
+
+Memory Managment:
+ Stack & Heap
+
+ Garbage Collection
+
+ IL - MSIL
+ ILDasm - MSIL disassembler (https://msdn.microsoft.com/en-us/library/f7dy01k1(v=vs.110).aspx)
+
+ Delegates:
+ type safe function pointers
+  reference to method  (name w/o parens)
+  anon methods
+  lambdas
+  generic delegates: action & func 
+
+  class that derives from multicate delegate with an invoke method
+
+
+
+the only thing to help deliver faster is to cut features
+
+Functional  f(x)
+  C# <# Functional techniques
+  higher order function takes a delegate (code) and returns delegate (code) as a parameter
+
+  Purity - nothing in the universe can be changed. 
+
+f = delegate = lambda
+
+delegate - code that can be safely stored to execute later
+
+
+Refactoring
+  Imparative refactoring - inside out Refactoring
+  grab code -> make a new method -> use it multiple places
+
+  Functional refactoring - outside in
+  grab outside -> make new method ->   ->
+
+
+
+3 hardest words in english :  I don't Know ( freakonomics podcast )
+
+imposter syndrome 
+
+find the middle of not knowing and being an imposter
+
+http://startupbros.com/21-ways-overcome-impostor-syndrome/
+
+www.deniseJacobs.com - banish your inner critic 
+
+Async Refactoring
+
+
+async / await
+
+
+  
+
+

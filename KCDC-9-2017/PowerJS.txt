@@ -1,0 +1,64 @@
+Power JS - professional JS 
+
+Book - The checklist manifesto
+
+Bit.LY/12keysjs
+
+12 Keys - 
+1. JS belongs in a js file
+	No inline JS
+		inline is not cached
+		inline not reusable
+		adds noise to the page	
+		can't leverage external tools ( lint, etc)
+2. All js should be static
+	Don't build js dynamically on the server
+	violates seperation of concerns
+	need dynamic behavior? - use JSON
+	JS configutation object pattern
+		for the app , make a c# object with app name, that contains all vars that could be needed
+		then serialize that to a page as json.  All objects needed on are js and doesn't need dynamic JS
+3. JS should be minified
+	why? removal
+		comments
+		validations
+		hot reloading
+		dead code elimination / tree shaking
+4. JS should be linted
+	ESLint is the hotness
+	linting avoids mistakes
+5. JS should have automated tests
+	(Jasmine, Mocha, AVA ) 
+	hardest part -  choosing how
+		browser, node, frameworks, etc
+		Mocha & Expect & Cheerio & jsdom( on NPM ) - using in this class
+		Cheerio - uses jquery 
+		jsdom - in mem dom to simulate browser
+		Framework specfic test libs
+	where to put the test files
+		 central or along
+		 central - internal
+		 alongside - easy imports, easily visible, convienent to open, no need to create folder structure, easy file moves
+	tests should run on save
+	Risk - Peltzman Effect  - safety measures cause us to take more risks
+6.JS should be encapsualted.
+	no global js
+	all js should be namespaced
+	IIFE, Recealing Module, AMD, CommonJS, ES6 ( ES6 & CommonJS are most popular)
+7. Dependencies should be explicit
+8. JS should be transpiledd
+	Babel - Classes, Modules, Constants, arrow function ( lambdas ), Let, iterators, promises, template
+	other options (TS, Elm)
+9. JS should have an automated build
+	Gulp
+	Grunt
+	Broccoli
+	NPM
+10. Use Libraries
+11. Seperate Concerns
+12. you need a starter kit
+
+
+
+
+	
